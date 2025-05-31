@@ -24,7 +24,7 @@ A simple and fun 2D Unity app that lets users enter their name, increase or decr
 ---
 
 ## 📁 Project Structure
-
+```
 Assets/
  ├─ Scenes/
  │   ├─ Welcome.unity
@@ -36,7 +36,7 @@ Assets/
  │   ├─ CongratsScreenController.cs
  │   └─ PrefKeys.cs
  └─ UI/Assets (images, fonts, etc.)
-
+```
 ---
 
 ## 🧠 Technologies Used
